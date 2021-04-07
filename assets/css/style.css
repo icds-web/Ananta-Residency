@@ -1163,6 +1163,7 @@ a:hover {
 .card-box-c span,
 .card-box-d span {
   line-height: 0;
+  height: 20px;
 }
 
 @media (min-width: 768px) {
@@ -1664,25 +1665,25 @@ a:hover {
 }
 
 .card-box-ico span {
-  font-size: 4rem;
+  font-size: 2.0rem;
   color: #000000;
 }
 
 .title-c {
-  font-size: 2.5rem;
+  font-size: 1.5rem;
   font-weight: 600;
   margin-left: -40px;
 }
 
 @media (min-width: 768px) {
   .title-c {
-    font-size: 1.8rem;
+    font-size: 1.5rem;
   }
 }
 
 @media (min-width: 992px) {
   .title-c {
-    font-size: 2.5rem;
+    font-size: 1.5rem;
   }
 }
 
@@ -2235,9 +2236,9 @@ footer .credits {
 .newsletter form {
   margin-top: 20px;
   margin-bottom: 50px;
-  margin-left: -300px;
+  margin-left: -100px;
+  margin-right: 150px;
   background: #fff;
-  padding: 6px 10px;
   position: relative;
   border-radius: 4px;
   border: 1px solid #000000;
