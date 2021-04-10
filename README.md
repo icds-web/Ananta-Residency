@@ -1,1 +1,0 @@
-# Ananta-Residency
